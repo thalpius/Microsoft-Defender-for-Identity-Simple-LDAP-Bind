@@ -16,7 +16,7 @@ https://learn.microsoft.com/en-us/defender-for-identity/security-assessment-clea
 
 Enter a Domain Controller as the ldapserver, the Distinguished Name of a user account, and the corresponding password. Here is an example:
 ````
-LDAPSimpleBind.exe /ldapServer:"DC01" /userDN:"CN=thalpius,OU=Users,DC=yoshis.DC=island" /password:"thalpius2024!"
+LDAPSimpleBind.exe /ldapServer:"DC01" /userDN:"CN=thalpius,CN=Users,DC=yoshis,DC=island" /password:"thalpius2024!"
 ````
 
 > **_NOTE:_** Use the "Attribute Editor" in "Active Directory Users and Computers" on the object to find the Distinguished Name for a user account.
