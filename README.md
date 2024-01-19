@@ -1,16 +1,28 @@
 # Microsoft Defender for Identity Simple LDAP Bind
 
-I created a small program to test the "Entities exposing credentials in clear text" Secure Score Recommended Action for Microsoft Defender for Identity.
+I created a small program to test the "Entities exposing credentials in clear text" Secure Score Recommended Action for Microsoft Defender for Identity. For more information, please check the official documentation from Microsoft:
 
 https://learn.microsoft.com/en-us/defender-for-identity/security-assessment-clear-text
 
-## 🧩 Features
+## Features
 
-- Creates an LDAP bind to a Domain Controller using a simple BIND
-- The server, user and password as an agrument input to make it simple for anyone to use
+- Creates an LDAP connection to a Domain Controller using a simple Bind
+- Using arguments for the server, username, and password to make it simple for anyone to use
+- Triggers "Exposed Entities" for the "Stop clear text credentials exposure" recommended action in secure score
 
-## 📝 License
-This project is licensed under the MIT License.
-Feel free to use and modify the code as you like 🎉
+## Usage
 
-## 📷 Screenshots
+Enter a Domain Controller as the ldapserver, the Distinguished Name of a user account, and the corresponding password. Here is an example:
+````
+LDAPSimpleBind.exe /ldapServer:"DC01" /userDN:"CN=thalpius,OU=Users,DC=yoshis.DC=island" /password:"thalpius2024!"
+````
+
+> **_NOTE:_** Use the "Attribute Editor" in "Active Directory Users and Computers" on the object to find the Distinguished Name for a user account.
+
+## Blog
+
+To find out more about the "Entities exposing credentials in clear text" recommended action, check out my blog post:
+
+https://thalpius.com
+
+## Screenshots
