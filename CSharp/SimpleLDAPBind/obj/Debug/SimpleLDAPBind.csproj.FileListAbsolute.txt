@@ -1,0 +1,7 @@
+C:\Users\RaymondRoethof\source\repos\SimpleLDAPBind\SimpleLDAPBind\bin\Debug\SimpleLDAPBind.exe.config
+C:\Users\RaymondRoethof\source\repos\SimpleLDAPBind\SimpleLDAPBind\bin\Debug\SimpleLDAPBind.exe
+C:\Users\RaymondRoethof\source\repos\SimpleLDAPBind\SimpleLDAPBind\bin\Debug\SimpleLDAPBind.pdb
+C:\Users\RaymondRoethof\source\repos\SimpleLDAPBind\SimpleLDAPBind\obj\Debug\SimpleLDAPBind.csproj.AssemblyReference.cache
+C:\Users\RaymondRoethof\source\repos\SimpleLDAPBind\SimpleLDAPBind\obj\Debug\SimpleLDAPBind.csproj.CoreCompileInputs.cache
+C:\Users\RaymondRoethof\source\repos\SimpleLDAPBind\SimpleLDAPBind\obj\Debug\SimpleLDAPBind.exe
+C:\Users\RaymondRoethof\source\repos\SimpleLDAPBind\SimpleLDAPBind\obj\Debug\SimpleLDAPBind.pdb
