@@ -27,5 +27,11 @@ To find out more about the "Entities exposing credentials in clear text" recomme
 
 **Coming Soon**
 
-## Screenshot
+## Screenshots
+Here is an example of the appliation connecting to a Domain Controller using simple authentication:
+
 ![Alt text](/Screenshots/MicrosoftDefenderForIdentitySimpleLDAPBind01.png?raw=true "Microsoft Defender for Identity Simple LDAP Bind")
+
+Here is an example of the Exposed Entities in "Entities exposing credentials in clear text" Secure Score Recommended Action:
+
+![Alt text](/Screenshots/MicrosoftDefenderForIdentitySimpleLDAPBind02.png?raw=true "Microsoft Defender for Identity Exposed Entities")
