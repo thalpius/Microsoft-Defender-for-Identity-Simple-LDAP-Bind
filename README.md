@@ -4,13 +4,13 @@ I created a small program to test the "Entities exposing credentials in clear te
 
 https://learn.microsoft.com/en-us/defender-for-identity/security-assessment-clear-text
 
-## 📌 Features
+## 🧩 Features
 
 - Creates an LDAP bind to a Domain Controller using a simple BIND
 - The server, user and password as an agrument input to make it simple for anyone to use
 
-## 📜 License
+## 📝 License
 This project is licensed under the MIT License.
 Feel free to use and modify the code as you like 🎉
 
-## Screenshots
+## 📺 Screenshots
