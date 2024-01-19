@@ -4,6 +4,8 @@ I created a small program to test the "Entities exposing credentials in clear te
 
 https://learn.microsoft.com/en-us/defender-for-identity/security-assessment-clear-text
 
+> **_NOTE:_** The password is transmitted without any form of obfuscation or encryption, so it is strongly recommended that simple authentication be used only for testing purposes.
+
 ## Features
 
 - Creates an LDAP connection to a Domain Controller using a simple Bind
