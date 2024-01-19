@@ -27,4 +27,5 @@ To find out more about the "Entities exposing credentials in clear text" recomme
 
 **Coming Soon**
 
-## Screenshots
+## Screenshot
+![Alt text](/Screenshots/MicrosoftDefenderForIdentitySimpleLDAPBind01.png?raw=true "Microsoft Defender for Identity Simple LDAP Bind")
