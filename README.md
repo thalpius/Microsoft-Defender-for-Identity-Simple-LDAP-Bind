@@ -25,6 +25,5 @@ LDAPSimpleBind.exe /ldapServer:"DC01" /userDN:"CN=thalpius,OU=Users,DC=yoshis.DC
 
 To find out more about the "Entities exposing credentials in clear text" recommended action, check out my blog post:
 
-https://thalpius.com
 
 ## Screenshots
