@@ -15,7 +15,7 @@ namespace SimpleLDAPBind
             Console.WriteLine("");
             Console.WriteLine("Oops! Arguments doesn't seem to be right...");
             Console.WriteLine("");
-            Console.WriteLine("Example: \"LDAPSimpleBind.exe\" /ldapServer:\"DC01\" /userDN:\"CN=thalpius,OU=Users,DC=yoshis,DC=island\" /password:\"thalpius2024!\"");
+            Console.WriteLine("Example: \"LDAPSimpleBind.exe\" /ldapServer:\"DC01\" /userDN:\"CN=thalpius,CN=Users,DC=yoshis,DC=island\" /password:\"thalpius2024!\"");
             System.Environment.Exit(1);
         }
         static void LdapConnectionBasic(string ldapServer, string userDN, string password)
