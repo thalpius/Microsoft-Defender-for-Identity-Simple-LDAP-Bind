@@ -25,7 +25,7 @@ SimpleLDAPBind.exe /ldapServer:"DC01" /userDN:"CN=thalpius,CN=Users,DC=yoshis,DC
 
 To find out more about the "Entities exposing credentials in clear text" recommended action, check out my blog post:
 
-**Coming Soon**
+https://thalpius.com/2024/01/23/microsoft-defender-for-identity-recommended-actions-stop-clear-text-credentials-exposure/
 
 ## 📺 Screenshots
 Here is an example of the appliation connecting to a Domain Controller using simple authentication:
