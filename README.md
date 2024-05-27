@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> "This repo is now in 'Blue Screen' mode—archived and frozen in time!"
+
 # Microsoft Defender for Identity Simple LDAP Bind
 
 I created a small program to test the "Entities exposing credentials in clear text" Secure Score Recommended Action for Microsoft Defender for Identity. For more information, please check the official documentation from Microsoft:
